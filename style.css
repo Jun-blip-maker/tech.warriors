@@ -61,7 +61,8 @@
   font-size: 18px;
   line-height: 1.6;
   position: relative;
-  right: 120px;
+  right: 0px;
+  left: 20px;
   padding: 50px;
   background-color: black;
   opacity: 0.9;
